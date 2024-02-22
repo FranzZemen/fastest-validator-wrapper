@@ -6,7 +6,7 @@
     "moduleResolution": "NodeNext",
     "tsBuildInfoFile": "../../out/buildInfo/testTsInfo",
     "declarationDir": "../../out/test/types",
-    "outDir": "../../test/project"
+    "outDir": "../../out/test"
   },
   "include": ["**/*"]
 }
