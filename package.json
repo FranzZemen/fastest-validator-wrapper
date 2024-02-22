@@ -1,0 +1,28 @@
+{
+  "name": "@franzzemen/fastest-validator-wrapper",
+  "version": "0.0.1",
+  "description": "Fastest validator wrapper, wraps Validator in .cjs file",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranzZemen/fastest-validator-wrapper.git"
+  },
+  "author": "Franz Zemen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FranzZemen/fastest-validator-wrapper/issues"
+  },
+  "homepage": "https://github.com/FranzZemen/fastest-validator-wrapper#readme",
+  "dependencies": {
+    "fastest-validator": "^1.17.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "build": "tsc -b"
+  }
+}
