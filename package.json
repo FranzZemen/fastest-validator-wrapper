@@ -21,15 +21,15 @@
     "tslib": "^2.6.2"
   },
   "devDependencies": {
-    "@types/chai": "^4.3.11",
+    "@franzzemen/build-system": "^0.0.53",
+    "@types/chai": "^4.3.12",
     "@types/mocha": "^10.0.6",
     "chai": "^5.1.0",
     "typescript": "^5.3.3"
   },
   "exports": {
     ".": {
-      "types": "./out/project/types/index.d.ts",
-      "import": "./out/project/index.js"
+      "import": "./src/project/index.ts"
     }
   }
 }
