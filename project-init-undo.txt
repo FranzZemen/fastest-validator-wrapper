@@ -1,2 +1,7 @@
+	Undo git commit as necessary (git revert?)
+	Undo git add * as necessary
+	rollback ./package.json to version 0.0.2 in git
+	Undo git commit as necessary (git revert?)
+	Undo git add * as necessary
 	Undo write to ./out/package.json
 	Undo write to ./out/project/package.json
