@@ -21,11 +21,11 @@
     "tslib": "^2.6.2"
   },
   "devDependencies": {
-    "@franzzemen/build-system": "^0.0.53",
-    "@types/chai": "^4.3.12",
+    "@franzzemen/build-system": "^4.0.2",
+    "@types/chai": "^4.3.14",
     "@types/mocha": "^10.0.6",
     "chai": "^5.1.0",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.3"
   },
   "exports": {
     ".": {
