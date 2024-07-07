@@ -4,3 +4,4 @@ License Type: MIT
 */
 
 export * from './get-validator.cjs'
+export * from './fastest-validator-utils.js';
