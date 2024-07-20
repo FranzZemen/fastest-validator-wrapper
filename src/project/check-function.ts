@@ -4,7 +4,7 @@ License Type: MIT
 */
 
 import {AsyncCheckFunction, SyncCheckFunction, ValidationSchema, ValidatorConstructorOptions} from "fastest-validator";
-import {getValidator} from "@franzzemen/fastest-validator-wrapper";
+import {getValidator} from './get-validator.cjs';
 
 export type CheckFunction = AsyncCheckFunction | SyncCheckFunction;
 
