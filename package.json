@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/FranzZemen/fastest-validator-wrapper#readme",
   "dependencies": {
+    "@franzzemen/npmu": "^6.0.1",
     "fastest-validator": "^1.18.0"
   },
   "devDependencies": {
@@ -31,5 +32,9 @@
     ".": {
       "import": "./src/project/index.ts"
     }
-  }
+  },
+  "npmuDependencies": [{
+    "path": "./",
+    "packageName": "@franzzemen/fastest-validation-wrapper"
+  }]
 }
