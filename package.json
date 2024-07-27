@@ -1,6 +1,6 @@
 {
   "name": "@franzzemen/fastest-validator-wrapper",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "description": "Fastest validator wrapper, wraps Validator in .cjs file",
   "type": "module",
   "scripts": {
@@ -33,8 +33,10 @@
       "import": "./src/project/index.ts"
     }
   },
-  "npmuDependencies": [{
-    "path": "./",
-    "packageName": "@franzzemen/fastest-validation-wrapper"
-  }]
+  "npmuDependencies": [
+    {
+      "path": "./",
+      "packageName": "@franzzemen/fastest-validation-wrapper"
+    }
+  ]
 }
