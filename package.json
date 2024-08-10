@@ -21,11 +21,11 @@
     "fastest-validator": "^1.19.0"
   },
   "devDependencies": {
-    "@franzzemen/build-system": "^6.0.4",
-    "@types/chai": "^4.3.16",
+    "@franzzemen/build-system": "^6.0.6",
+    "@types/chai": "^4.3.17",
     "@types/mocha": "^10.0.7",
     "chai": "^5.1.1",
-    "mocha": "^10.7.0",
+    "mocha": "^10.7.3",
     "typescript": "^5.5.4"
   },
   "exports": {
