@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/FranzZemen/fastest-validator-wrapper#readme",
   "dependencies": {
-    "@franzzemen/npmu": "^8.0.1",
+    "@franzzemen/npmu": "^8.0.2",
     "fastest-validator": "^1.19.0"
   },
   "devDependencies": {
@@ -25,7 +25,7 @@
     "@types/chai": "^5.0.1",
     "@types/mocha": "^10.0.9",
     "chai": "^5.1.2",
-    "mocha": "^10.8.1",
+    "mocha": "^10.8.2",
     "typescript": "^5.6.3"
   },
   "exports": {
