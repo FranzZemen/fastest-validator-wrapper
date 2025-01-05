@@ -1,6 +1,6 @@
 {
   "name": "@franzzemen/fastest-validator-wrapper",
-  "version": "2.2.29",
+  "version": "2.2.30",
   "description": "Fastest validator wrapper, wraps Validator in .cjs file",
   "type": "module",
   "scripts": {
